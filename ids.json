@@ -18,7 +18,7 @@
     },
     {
       "id": "ad_003",
-      "type": "mrec",
+      "type": "banner",
       "image": "https://cdn.site.com/mrec1.png",
       "click_url": "https://link3.com",
       "priority": 0,
