@@ -21,7 +21,7 @@
       "type": "banner",
       "image": "https://cdn.site.com/mrec1.png",
       "click_url": "https://link3.com",
-      "priority": 1,
+      "priority": 0.5,
       "is_enabled": false
     }
   ]
